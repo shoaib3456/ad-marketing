@@ -217,13 +217,14 @@ body{
     }
     .mobile-nav .inner{
         padding:15px 0 ;
+        padding-bottom: 10px;
         color: white;
     }
     .mobile-nav .inner span{
-        font-size: 25px;
+        font-size: 20px;
     }
     .mobile-nav .inner div{
-        font-size: 14px;
+        font-size: 12px;
         padding-top: 7px;
     }
     .mobile-nav .inner.active{
