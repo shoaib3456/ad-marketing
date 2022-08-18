@@ -230,4 +230,7 @@ body{
     .mobile-nav .inner.active{
         color: var(--secondary);
     }
+    body{
+        padding-bottom: 100px;
+    }
 }
